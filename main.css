@@ -1,0 +1,243 @@
+.header{
+	background: url('header-bg.jpg') no-repeat center top/ cover;
+	height: 900px;
+}
+
+body { 
+	font-family: 'Lobster', cursive;
+	
+}
+
+.menu{
+	font-size: 30px;
+	display: flex;
+}
+
+li:hover {
+	color: black;
+}
+
+ul a {
+	text-decoration: none;
+	color: white;
+	margin-top: -100px;
+	margin-left: 150px;
+}
+
+.icon {
+	margin-left: 20px;
+	margin-top: 30px;
+}
+
+h4{	
+	color: white;
+	margin-left: 50px;
+	font-size: 35px;
+	letter-spacing: 4px;
+	margin-top: -70px;
+	text-shadow: .07em 0 black;
+	
+}
+
+h1 {
+	color: red;
+	font-size: 100px;
+	margin-left: 40px;
+	letter-spacing: 2px;
+	margin-top: 140px; 
+	text-shadow: .05em 0 black;
+}
+
+.history a{
+	color: red;
+	font-weight: bold;
+}
+
+.history h3 {
+	text-align: center;
+}
+
+.start{
+	color: red;
+}
+
+h3{
+	font-size: 35px;	
+}
+
+.history span{
+	font-size: 20px;
+	color: red;
+}
+
+.haracter h3{
+	text-align: center;
+}
+
+.haracter{
+	margin-left: 40px;
+}
+
+.haracter span{
+	font-size: 20px;
+	font-weight: bold;
+	
+}
+
+.haracter a{
+	font-weight: bold;
+	
+}
+
+.history{
+	margin-top: 550px;
+	margin-left: 40px;
+}
+
+.prima{
+	margin-bottom: 30px;
+	margin-left: 40px;
+}
+
+.prima h3{
+	text-align: center;
+}
+
+textarea{
+	border-radius: 10px;
+	background: white;
+	padding: 10px;
+	
+}
+
+.pod{
+	background: url('toy.jpg') no-repeat center / cover;
+	border-radius: 40px;
+	padding-top: 40px;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+}
+
+.pod p{
+	margin-left: 20px;
+}
+
+.pod input{
+	border-radius: 10px;
+	background: white;
+	height: 30px;
+	width: 150px
+}
+
+.photo img {
+	transition: all 0.2s ease;
+	margin-top: 40px;
+}
+
+.photo img:hover {
+	box-shadow: 0 10px 10px white;
+	transform: scale(1.1);
+}
+
+.photo{
+	justify-content: space-between;
+	padding: 50px;
+	background: #FFBFB1;
+	border-radius: 50px;
+	margin-bottom: 20px;
+}
+
+.photo span{
+	margin-left: 500px;
+}
+
+h2{
+	margin-bottom: -5px;
+	margin-left: 20px;
+	font-size: 40px;
+}
+
+.pod b{
+	color: white;	
+	font-size: 21px;
+}
+
+.otziv{
+	text-align: center;
+	background: white;
+	border-radius: 40px;
+	padding: 7px;
+	margin-left: 60px;
+	margin-right: 60px;
+
+}
+
+.block {
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+	background: red;
+	padding-right: 80px;
+	border-radius: 10px;
+	padding-left: 20px;
+	border: 1px solid black;
+}
+
+.pod a{
+	color: white;
+	background: #FFBFB1;
+	padding-left: 13px;
+	padding-right: 13px;
+	border-radius: 13px;
+	font-size: 19px;
+}
+
+.otziv a{
+	background: white;
+	color: black;
+	font-size: 18px;
+	margin-left: -10px;
+}
+
+.invite input{
+	font-size: 15px;
+	border: 2px solid #FA806E;
+}
+
+.game{
+	margin-top: 80px;
+	text-align: center;
+}
+
+.game h3{
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	background: #E62F22;
+    text-shadow: 2px 2px 2px black, 0 0 1em black;
+    color: white;
+	border-radius: 30px
+}
+
+.game p{
+	text-align: center;
+	font-size: 24px;
+	border-radius: 26px;
+	padding-left: 30px;
+}
+
+.game a{
+	color: red;
+	text-decoration: none;
+}
+
+.omg { 
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+	background: red;
+	padding-right: 80px;
+	border-radius: 10px;
+	padding-left: 20px;
+	border: 1px solid black;
+}

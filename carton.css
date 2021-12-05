@@ -1,0 +1,60 @@
+.header{
+	background: url('header-black.png') no-repeat center top/ cover;
+	height: 885px;
+}
+
+body { 
+	font-family: 'Bebas Neue', cursive;
+}
+
+.menu{
+	font-size: 30px;
+	display: flex;
+}
+
+.start{
+	color: red;
+}
+
+li:hover {
+	color: red;
+}
+
+ul a {
+	text-decoration: none;
+	color: white;
+	margin-top: -100px;
+	margin-left: 150px;
+}
+
+.icon {
+	margin-left: 20px;
+	margin-top: 30px;
+}
+
+h2{
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	background: #E62F22;
+    text-shadow: 2px 2px 2px black, 0 0 1em black;
+    color: white;
+	border-radius: 30px
+    
+}
+
+.video{
+	margin-bottom: 160px;
+	text-align: center;
+	margin-top: 30px;
+}
+
+.block {
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+	background: red;
+	border-radius: 10px;
+	padding-left: 20px;
+	padding-right: 80px;
+}

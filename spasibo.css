@@ -1,0 +1,45 @@
+.header{
+	background: url('thank.jpg') no-repeat center top/ cover;
+	height: 885px;
+}
+
+.block {
+	vertical-align: bottom;
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+	background: red;
+	padding-right: 80px;
+	border-radius: 10px;
+	padding-left: 20px;
+	border: 1px solid black;
+
+}
+
+body { 
+	font-family: 'Lobster', cursive;
+	
+}
+
+h3{
+	text-align: center;
+	font-size: 45px;
+	color: white;
+	background: #FA806E;
+	padding-bottom: 20px;
+	border-radius: 30px;
+}
+
+p{
+	text-align: center;
+	font-size: 27px;
+	margin-bottom: 400px;
+	background: white;
+	border-radius: 25px;
+	padding: 30px;
+	letter-spacing: 2px;
+}
+
+p span{
+	color: red;
+}
